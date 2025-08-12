@@ -10,11 +10,13 @@ AdsApp is an Android application developed in Android Studio that demonstrates t
 •	Firebase Realtime Database for storing Ad IDs.
 ## Technical Requirements
 •	Developed using Android Studio.
-•	Jetpack Compose or XML for UI.
-•	Kotlin or Java for backend implementation.
+•	XML for UI.
+•	Java for backend implementation.
 •	AdMob Test Ad IDs used during development.
 •	Proper internet connectivity handling (slow/fast).
 •	Error handling to avoid app crashes.
+
+
 
 
 ## Policies & Compliance
