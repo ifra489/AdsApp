@@ -2,19 +2,20 @@
 AdsApp is an Android application developed in Android Studio that demonstrates the implementation of real-world app monetization techniques using Google AdMob with Firebase Realtime Database.
 
 ## Features
-•	5-screen app (excluding splash screen).
-•	Open Ad implementation after splash screen following Play Store guidelines.
-•	Banner Ads on the bottom of every screen except splash screen.
-•	Interstitial Ad shown after the 3rd screen (if loaded).
-•	Clean and intuitive login/register interface.
-•	Firebase Realtime Database for storing Ad IDs.
+-	5-screen app (excluding splash screen).
+  
+-	Open Ad implementation after splash screen following Play Store guidelines.
+-	Banner Ads on the bottom of every screen except splash screen.
+-	Interstitial Ad shown after the 3rd screen (if loaded).
+-	Clean and intuitive login/register interface.
+-	Firebase Realtime Database for storing Ad IDs.
 ## Technical Requirements
-•	Developed using Android Studio.
-•	XML for UI.
-•	Java for backend implementation.
-•	AdMob Test Ad IDs used during development.
-•	Proper internet connectivity handling (slow/fast).
-•	Error handling to avoid app crashes.
+-	Developed using Android Studio.
+-	XML for UI.
+-	Java for backend implementation.
+-	AdMob Test Ad IDs used during development.
+-	Proper internet connectivity handling (slow/fast).
+-	Error handling to avoid app crashes.
 
 ## 🖼️ Screenshots
 
